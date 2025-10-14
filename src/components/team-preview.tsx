@@ -12,7 +12,7 @@ const teamMembers = [
   {
     name: "C J Nwogu ",
     position: "Senior Associate",
-    bio: "Expert in data protection, privacy law, and technology transactions with a focus on emerging markets.",
+    bio: "CJ Nwogu is a highly skilled litigator & corporate practitioner with over 10 years of experience in commercial disputes, arbitration, and intellectual property law",
     // image:team1,
   },
   // {
@@ -61,7 +61,10 @@ export default function TeamPreview() {
         </div>
 
         <div className="text-center mt-12">
-          <Link to="/team" className="bg-navy text-white hover:bg-navy/90 px-8 py-3 rounded-lg font-medium transition-colors duration-300">
+          <Link
+            to="/team"
+            className="bg-navy text-white hover:bg-navy/90 px-8 py-3 rounded-lg font-medium transition-colors duration-300"
+          >
             Meet Our Full Team
           </Link>
         </div>
