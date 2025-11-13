@@ -15,12 +15,7 @@ const teamMembers = [
     bio: "CJ Nwogu is a highly skilled litigator & corporate practitioner with over 10 years of experience in commercial disputes, arbitration, and intellectual property law",
     // image:team1,
   },
-  // {
-  //   name: "Chuma Akana",
-  //   position: "Senior Counsel",
-  //   bio: "Litigation specialist with extensive experience in commercial disputes and intellectual property matters.",
-  //   image: team1,
-  // },
+ 
 ];
 
 export default function TeamPreview() {
